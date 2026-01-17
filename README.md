@@ -1,4 +1,10 @@
-## Hi there 👋
+💫 About Me:
+
+🌱 I’m currently learning Data Structures and Algorithms in JAVA
+⚡ Fun fact - “The more I learn, the more I realize how much I don’t know”
+
+💻 Tech Stack:
+C JavaScript Java HTML5 Python Windows Terminal## Hi there 👋
 
 <!--
 **GurparshadSingh/GurparshadSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

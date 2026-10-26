@@ -20,7 +20,7 @@
     <circle cx="299" cy="317" r="2.5" fill="#70f0c4"/>
     <text x="318" y="322" font-size="13" fill="#9ba9bf" letter-spacing="2">JAVA DSA</text>
     <circle cx="423" cy="317" r="2.5" fill="#70f0c4"/>
-    <text x="442" y="322" font-size="13" fill="#9ba9bf" letter-spacing="2">PYTHON</text>
+    <text x="442" y="322" font-size="13" fill="#9ba9bf" letter-spacing="2">PROJECTS</text>
   </g>
   <g fill="none" stroke-width="1.5">
     <rect x="940" y="60" width="250" height="250" rx="28" stroke="#a6a0ff" stroke-opacity=".25" transform="rotate(12 1065 185)"/>

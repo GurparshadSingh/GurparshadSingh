@@ -81,6 +81,14 @@ Python exercises and mini projects covering syntax, collections, functions, OOP,
 </tr>
 </table>
 
+## Problem solving
+
+I practice data structures and algorithms in Java alongside full-stack development.
+
+[![Gurparshad Singh's LeetCode stats](https://leetcard.jacoblin.cool/Gurparshad_Singh?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/Gurparshad_Singh/)
+
+[LeetCode profile](https://leetcode.com/u/Gurparshad_Singh/) · [Java DSA solutions](https://github.com/GurparshadSingh/Java_Data_Structure_and_Algorithms)
+
 ## Toolbox
 
 Technologies I've used or am actively practicing:

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+  <title id="title">Gurparshad Singh - full-stack development and a path toward AI systems</title>
+  <desc id="desc">Dark portfolio banner with mint and violet geometric accents. Building with MERN. Growing toward AI systems engineering.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101924"/><stop offset="1" stop-color="#141328"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#70f0c4"/><stop offset="1" stop-color="#a6a0ff"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#637087" stroke-opacity=".11"/></pattern>
+  </defs>
+  <rect width="1280" height="400" rx="24" fill="url(#bg)"/>
+  <rect width="1280" height="400" rx="24" fill="url(#grid)"/>
+  <path d="M0 397H1280" stroke="url(#accent)" stroke-width="6"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <rect x="56" y="45" width="190" height="28" rx="14" fill="#70f0c4" fill-opacity=".09" stroke="#70f0c4" stroke-opacity=".3"/>
+    <circle cx="73" cy="59" r="4" fill="#70f0c4"/>
+    <text x="86" y="64" font-size="12" font-weight="600" fill="#8cf4d1" letter-spacing="1.4">LEARN. BUILD. REFINE.</text>
+    <text x="52" y="154" font-size="62" font-weight="700" fill="#f1f5fb" letter-spacing="-2">Gurparshad Singh</text>
+    <text x="56" y="206" font-size="26" font-weight="600" fill="#91f1d0">Building with MERN.</text>
+    <text x="56" y="245" font-size="25" fill="#c1c9da">Growing toward AI systems engineering.</text>
+    <text x="56" y="322" font-size="13" fill="#9ba9bf" letter-spacing="2">FULL-STACK DEVELOPMENT</text>
+    <circle cx="299" cy="317" r="2.5" fill="#70f0c4"/>
+    <text x="318" y="322" font-size="13" fill="#9ba9bf" letter-spacing="2">JAVA DSA</text>
+    <circle cx="423" cy="317" r="2.5" fill="#70f0c4"/>
+    <text x="442" y="322" font-size="13" fill="#9ba9bf" letter-spacing="2">PYTHON</text>
+  </g>
+  <g fill="none" stroke-width="1.5">
+    <rect x="940" y="60" width="250" height="250" rx="28" stroke="#a6a0ff" stroke-opacity=".25" transform="rotate(12 1065 185)"/>
+    <rect x="922" y="80" width="250" height="250" rx="28" fill="#121e2b" stroke="#70f0c4" stroke-opacity=".45"/>
+    <path d="M923 130H1171" stroke="#70f0c4" stroke-opacity=".18"/>
+    <path d="M1008 189L975 218L1008 247M1092 189L1125 218L1092 247M1066 174L1034 262" stroke="url(#accent)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="945" cy="105" r="4" fill="#70f0c4" stroke="none"/>
+    <circle cx="961" cy="105" r="4" fill="#a6a0ff" stroke="none"/>
+    <circle cx="977" cy="105" r="4" fill="#566780" stroke="none"/>
+    <path d="M1174 205H1220V280M920 260H880V320" stroke="#a6a0ff" stroke-opacity=".5"/>
+    <circle cx="1220" cy="280" r="5" fill="#a6a0ff" stroke="none"/>
+    <circle cx="880" cy="320" r="5" fill="#70f0c4" stroke="none"/>
+  </g>
+</svg>

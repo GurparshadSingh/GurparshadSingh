@@ -76,7 +76,9 @@ An engineering networking application for students and professionals, with domai
 
 `React` `Node.js` `Express` `MongoDB` `Stream SDK`
 
-*Local project · standalone repository being prepared · not deployed.*
+[Explore the project →](https://github.com/GurparshadSingh/Streamify)
+
+*Development project · not deployed.*
 
 </td>
 </tr>
